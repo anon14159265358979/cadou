@@ -1,3 +1,16 @@
-remote_theme: pages-themes/modernist@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# --- Configuración principal del tema ---
+theme: jekyll-theme-modernist
+
+# --- Información de tu sitio ---
+title: "Mi Blog Personal"
+description: "Un espacio web estático creado con Jekyll y el tema Modernist."
+author: "Tu Nombre"
+
+# --- Opciones específicas del tema Modernist ---
+# Si pones 'true', aparecerán botones en la barra lateral para descargar tu repositorio en ZIP. 
+# Si pones 'false', se ocultan (recomendado para blogs).
+show_downloads: false
+
+# --- Configuración general de Jekyll ---
+markdown: kramdown
+permalink: pretty
