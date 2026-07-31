@@ -4,7 +4,7 @@ theme: jekyll-theme-modernist
 # --- Información de tu sitio ---
 title: "Mi Blog Personal"
 description: "Un espacio web estático creado con Jekyll y el tema Modernist."
-author: "Tu Nombre"
+author: "Kdouy"
 
 # --- Opciones específicas del tema Modernist ---
 # Si pones 'true', aparecerán botones en la barra lateral para descargar tu repositorio en ZIP. 
